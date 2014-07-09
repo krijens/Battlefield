@@ -6,4 +6,7 @@
  * To change this template use File | Settings | File Templates.
  */
 public class Battlefield {
+    public static void main(String args[]){
+
+    }
 }
